@@ -1,0 +1,30 @@
+Required Python modules:
+
+os: A module that provides a way to use operating system dependent functionality.
+pip install os
+
+numpy (np): Stands for Numerical Python, a library that provides support for large, 
+multi-dimensional arrays and matrices, along with a large collection of high-level 
+mathematical functions to operate on these arrays.
+pip install numpy
+
+pandas (pd): A data manipulation and analysis library that offers data structures and 
+operations for manipulating numerical tables and time series.
+pip install pandas
+
+matplotlib.pyplot (plt): A plotting library that provides a MATLAB-like interface for 
+making plots and graphs, which is useful for data visualization.
+pip install matplotlib
+
+seaborn (sns): A statistical data visualization library based on matplotlib.
+pip install seaborn
+
+PIL.Image: Part of the Python Imaging Library (PIL), which adds image processing capabilities
+to Python interpreter. 
+pip install Pillow
+
+tensorflow: an open-source library used for numerical computation and machine learning. 
+pip install tensorflow
+
+scikit-learn (sklearn): free software machine learning library for the Python programming language.
+pip install scikit-learn
